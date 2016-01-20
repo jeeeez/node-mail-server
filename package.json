@@ -1,0 +1,14 @@
+{
+  "name": "mail-server",
+  "version": "0.0.0",
+  "description": "mail server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "nodemailer": "~2.0.0"
+  }
+}
